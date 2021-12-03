@@ -2,7 +2,7 @@
 int Sensor = 4; // declaração da pinagem do sensor de chamafogo//
 int Buzzer = 16;// declaração da pinagem do buzzer//
 int pinoLed = 15;//declaração da pinagem do led//
-int Var;// inicialmente a entrada do sensor é um//
+int Var;// declara a varivel do sensor//
  
 void setup() 
 { 
